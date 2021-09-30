@@ -1,0 +1,14 @@
+Planetary Orbital and Satellite Data
+                                                                Sidereal                Orbital                 Equatorial              Number
+                    Semimajor           Orbital                 Orbital                 Inclination             Inclination             Natural
+Planet              Axis (AU)           Eccentricity            Period (yr)             to Ecliptic (deg)       to Orbit (deg)          Satellites 
+Mercury              0.3871             0.2056                    0.2408                 7.00                     0.01                   0
+Venus                0.7233             0.0067                    0.6152                 3.39                   177.36                   0
+Earth                1.0000             0.0167                    1.0000                 0.000                   23.45                   1
+Mars                 1.5236             0.0935                    1.8808                 1.850                   25.19                   2
+Jupiter              5.2044             0.0489                   11.8618                 1.304                    3.13                  63
+Saturn               9.5826             0.0565                   29.4567                 2.485                   26.73                  47
+Uranus              19.2012             0.0457                   84.0107                 0.772                   97.77                  27
+Neptune             30.0476             0.0113                  164.79                   1.769                   28.32                  13
+Pluto               39.4817             0.2488                  247.68                  17.16                   122.53                   3
+2003UB313           67.89               0.4378                  559                     43.99                                            1	

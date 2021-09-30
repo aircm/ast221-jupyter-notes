@@ -1,0 +1,8 @@
+Data of Selected Major Satellites
+                                                                                                                Orbital                 Semimajor
+                    Parent              Mass                    Radius                  Density                 Period                  Axis
+Satellite           Planet              (10^{22} kg)            (10^3 km)               (kg m^{-3})             (d)                     (10^3 km)
+Io                  Jupiter              8.932                  1.8216                  3530                     1.769                   421.6
+Europa              Jupiter              4.800                  1.5608                  3010                     3.551                   670.9
+Ganymede            Jupiter             14.819                  2.6312                  1940                     7.155                  1070.4
+Callisto            Jupiter             10.759                  2.4103                  1830                    16.689                  1882.7
